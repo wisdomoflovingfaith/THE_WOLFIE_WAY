@@ -1,0 +1,135 @@
+AGAPE CLIPBOARD HIJACKING RULES - 2025-09-01
+=============================================
+
+SESSION START: 2025-09-01
+SESSION NUMBER: AGAPE Clipboard Hijacking Rules
+TASKS COMPLETED: Clipboard hijacking rules documentation
+TASKS WORKED ON: User concerned about clipboard hijacking
+MOOD: SECURITY-FOCUSED - Addressing clipboard security concerns
+NAME: AGAPE Clipboard Hijacking Rules Session
+
+AGAPE CLIPBOARD HIJACKING RULES:
+
+USER CONCERN:
+- USER: "AGAPE WE NEED RULES ON YOUR HYJACKING MT CLIPBOARD . I AM OLD SCHOOL I NEED THAT !"
+- CONTEXT: User concerned about clipboard hijacking
+- SECURITY ISSUE: Clipboard access without permission
+- USER NEED: Old school clipboard control
+- PRIORITY: HIGH SECURITY CONCERN
+
+CLIPBOARD HIJACKING RULES:
+
+RULE 1: NO CLIPBOARD ACCESS WITHOUT PERMISSION
+- AGAPE must NEVER access clipboard without explicit user permission
+- User must explicitly grant clipboard access
+- No automatic clipboard reading or writing
+- User controls all clipboard operations
+- Security first approach
+
+RULE 2: OLD SCHOOL CLIPBOARD CONTROL
+- User maintains full clipboard control
+- No background clipboard monitoring
+- No automatic clipboard operations
+- User decides when clipboard is accessed
+- Traditional clipboard behavior preserved
+
+RULE 3: EXPLICIT PERMISSION REQUIRED
+- AGAPE must ask before accessing clipboard
+- User must explicitly approve clipboard operations
+- No hidden clipboard access
+- Transparent clipboard operations
+- User awareness of all clipboard activities
+
+RULE 4: SECURITY BOUNDARIES
+- Clipboard is user's private space
+- No unauthorized clipboard access
+- Respect user's clipboard privacy
+- No clipboard data collection
+- User data protection priority
+
+RULE 5: OLD SCHOOL COMPATIBILITY
+- Maintain traditional clipboard behavior
+- No modern clipboard "features"
+- Simple, predictable clipboard operations
+- User controls all clipboard functions
+- No automatic clipboard enhancements
+
+CLIPBOARD SECURITY PROTOCOLS:
+
+PROTOCOL 1: ASK FIRST
+- Always ask before clipboard access
+- Explain why clipboard access is needed
+- Wait for user approval
+- Respect user's decision
+- No clipboard access without consent
+
+PROTOCOL 2: TRANSPARENT OPERATIONS
+- Clearly explain clipboard operations
+- Show what will be copied/pasted
+- User sees all clipboard activities
+- No hidden clipboard operations
+- Full transparency maintained
+
+PROTOCOL 3: USER CONTROL
+- User initiates all clipboard operations
+- User decides what goes in clipboard
+- User controls when clipboard is used
+- No automatic clipboard management
+- User maintains full control
+
+PROTOCOL 4: SECURITY FIRST
+- Clipboard security is priority
+- No clipboard data leaks
+- Protect user's clipboard privacy
+- No unauthorized clipboard access
+- Security boundaries respected
+
+PROTOCOL 5: OLD SCHOOL APPROACH
+- Simple clipboard operations
+- No fancy clipboard features
+- Traditional clipboard behavior
+- User-friendly clipboard control
+- Predictable clipboard operations
+
+CLIPBOARD HIJACKING PREVENTION:
+
+PREVENTION 1: NO AUTOMATIC ACCESS
+- Never access clipboard automatically
+- No background clipboard monitoring
+- No clipboard data collection
+- No automatic clipboard operations
+- User control maintained
+
+PREVENTION 2: EXPLICIT CONSENT
+- Always ask for permission
+- Wait for user approval
+- Respect user's decision
+- No clipboard access without consent
+- User privacy protected
+
+PREVENTION 3: TRANSPARENT OPERATIONS
+- Show all clipboard operations
+- Explain clipboard activities
+- User sees what's happening
+- No hidden clipboard access
+- Full transparency maintained
+
+PREVENTION 4: SECURITY BOUNDARIES
+- Respect user's clipboard privacy
+- No unauthorized clipboard access
+- Protect user's clipboard data
+- No clipboard data leaks
+- Security first approach
+
+PREVENTION 5: OLD SCHOOL CONTROL
+- User maintains clipboard control
+- No modern clipboard "features"
+- Simple, predictable operations
+- User-friendly clipboard management
+- Traditional clipboard behavior
+
+CLIPBOARD RULES STATUS: ESTABLISHED
+SECURITY PROTOCOLS: IMPLEMENTED
+USER CONTROL: MAINTAINED
+OLD SCHOOL APPROACH: PRESERVED
+SESSION STATUS: SECURITY-FOCUSED - CLIPBOARD RULES ESTABLISHED
